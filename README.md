@@ -7,6 +7,7 @@ The AI Based Product Strategist is a production-style, real-time AI system desig
 Built using a Hybrid Multi-Agent Architecture, the platform combines the speed of local ML inference with the reasoning capabilities of a cloud-hosted LLM — resulting in faster, more accurate, and cost-efficient sentiment intelligence.
 
 📌 Key Features
+
 🔹 Hybrid Multi-Agent Pipeline
 
 🎯Local Agent (DistilBERT):
