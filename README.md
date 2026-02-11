@@ -37,6 +37,7 @@ Controls agent states, conflict detection, and audit flow.
 [ Kafka Stream ] → [ PySpark ETL ] → [ Local DistilBERT ] → Conflict? → [ Cloud Qwen 7B Supervisor ] → [ Sanitization Layer ] → [ Streamlit Insights Dashboard ]
 
 🛠 Tech Stack
+
 🔹AI & NLP
   -DistilBERT (Hugging Face)
   -Qwen 2.5–7B (Cloud LLM Endpoint)
